@@ -18,7 +18,7 @@ Responsive product listing website for a food business, built using HTML, CSS, F
 ---
 
 ## 🖼️ Project Preview  
-![Website Screenshot](./screenshot.png)
+![Website Screenshot](./Screenshot(1).png)
 
 ---
 

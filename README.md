@@ -3,6 +3,7 @@
 **A responsive product listing website for a modern food business.**  
 This project showcases the fundamentals of frontend development using Bootstrap and HTML/CSS.
 
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=praveenkumarkota-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🔗 Live Website  
